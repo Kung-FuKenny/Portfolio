@@ -1,9 +1,10 @@
 import resume from '../assets/pdf/resume.pdf'
+import kenny from '../assets/pdf/kenny.jpg'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Kenny M. Ngoie',
+    title: "Graphic Designer & Web Developer",
+    desciption:"God has made everything beautiful in its time. He has also set eternity in the human heart; yet[a] no one can fathom what God has done from beginning to end.",
+    image: kenny,
     resumePdf: resume
 }
