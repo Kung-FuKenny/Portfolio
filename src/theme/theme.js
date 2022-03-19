@@ -109,8 +109,8 @@ export const blueThemeLight = {
     tertiary80: '#212121cc',
     tertiary70: '#212121b3',
     tertiary50: '#21212180',
-    aboutimg1: blueThemeboy,
-    aboutimg2: blueThemegirl,
+    aboutimg1: blueThemegirl,
+    aboutimg2: blueThemeboy,
     eduimg: eduBlue,
     expimg: expBlue,
     contactsimg: contactsBlue
