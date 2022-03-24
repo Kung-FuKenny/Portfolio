@@ -38,49 +38,49 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Belgravia Full Gospel Web App',
-        projectDesc: 'This is a website for my local church, serving where I can to help further the kingdom of God.',
+        projectName: 'Tafadzwa Consulting Web 2',
+        projectDesc: 'A revamp of the previous consulting website ',
         tags: ['React', 'Material Ui', 'CSS', 'Vercel'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/Kung-FuKenny/tafadzwa_update',
+        demo: 'https://tafadzwa.vercel.app/',
         image: four
     },
-    {
-        id: 5,
-        projectName: 'Jump Force Basketball Web',
-        projectDesc: 'A website for our local basketball team',
-        tags: ['React JS', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: five
-    },
-    {
-        id: 6,
-        projectName: 'Church Net',
-        projectDesc: 'Social Media for Local Churches',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: six
-    },
-    {
-        id: 7,
-        projectName: 'ShotLeft',
-        projectDesc: 'An app that calculates change for the passengers in a local Caravan taxi',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: seven
-    },
-    {
-        id: 8,
-        projectName: 'Umbala',
-        projectDesc: 'Social media platform for visual artists',
-        tags: ['Flutter', 'React'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: eight
-    },
+    // {
+    //     id: 5,
+    //     projectName: 'Jump Force Basketball Web',
+    //     projectDesc: 'A website for our local basketball team',
+    //     tags: ['React JS', 'CSS', 'Material Ui'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: five
+    // },
+    // {
+    //     id: 6,
+    //     projectName: 'Church Net',
+    //     projectDesc: 'Social Media for Local Churches',
+    //     tags: ['React', 'CSS', 'Material Ui'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: six
+    // },
+    // {
+    //     id: 7,
+    //     projectName: 'ShotLeft',
+    //     projectDesc: 'An app that calculates change for the passengers in a local Caravan taxi',
+    //     tags: ['React', 'Redux', 'Bootstrap'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: seven
+    // },
+    // {
+    //     id: 8,
+    //     projectName: 'Umbala',
+    //     projectDesc: 'Social media platform for visual artists',
+    //     tags: ['Flutter', 'React'],
+    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    //     image: eight
+    // },
 ]
 
 
