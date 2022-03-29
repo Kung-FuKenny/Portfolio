@@ -11,24 +11,6 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Suntec',
-        projectDesc: 'This project aims to build an tracking delivery system that consolidates all information of an order made.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://suntech-tms-fe.vercel.app/',
-        image: one
-    },
-    {
-        id: 2,
-        projectName: 'IsaRail MockUp',
-        projectDesc: 'This project is an electrical tower tracking system that allows users to obtain relevant information about the health of the electrical towers.',
-        tags: ['Figma'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://www.figma.com/file/kQAxrNOrruInTP865rQXCt/Dashboard?node-id=230%3A19',
-        image: two
-    },
-    {
-        id: 3,
         projectName: 'Tafadzwa Consulting Web App',
         projectDesc: 'A consulting website that mostly specialises in talent aqcuisition and other business consulting services.',
         tags: ['React', 'CSS', 'Material Ui'],
@@ -37,7 +19,7 @@ export const projectsData = [
         image: three
     },
     {
-        id: 4,
+        id: 2,
         projectName: 'Tafadzwa Consulting Web 2',
         projectDesc: 'A revamp of the previous consulting website ',
         tags: ['React', 'Material Ui', 'CSS', 'Vercel'],
@@ -45,24 +27,43 @@ export const projectsData = [
         demo: 'https://tafadzwa.vercel.app/',
         image: four
     },
-    // {
-    //     id: 5,
-    //     projectName: 'Jump Force Basketball Web',
-    //     projectDesc: 'A website for our local basketball team',
-    //     tags: ['React JS', 'CSS', 'Material Ui'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
-    // },
-    // {
-    //     id: 6,
-    //     projectName: 'Church Net',
-    //     projectDesc: 'Social Media for Local Churches',
-    //     tags: ['React', 'CSS', 'Material Ui'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: six
-    // },
+    {
+        id: 3,
+        projectName: 'Suntec',
+        projectDesc: 'This project aims to build an tracking delivery system that consolidates all information of an order made.',
+        tags: ['React', 'CSS', 'Material Ui'],
+        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://suntech-tms-fe.vercel.app/',
+        image: one
+    },
+    {
+        id: 4,
+        projectName: 'IsaRail MockUp',
+        projectDesc: 'This project is an electrical tower tracking system that allows users to obtain relevant information about the health of the electrical towers.',
+        tags: ['Figma'],
+        code: 'https://www.figma.com/file/kQAxrNOrruInTP865rQXCt/Dashboard?node-id=230%3A19',
+        demo: 'https://www.figma.com/proto/kQAxrNOrruInTP865rQXCt/Dashboard?node-id=230%3A19&scaling=min-zoom&page-id=230%3A19&starting-point-node-id=231%3A848',
+        image: two
+    },
+    
+    {
+        id: 5,
+        projectName: 'Khumla: Congratulations',
+        projectDesc: 'An animated web page for Khumla.com ',
+        tags: ['React JS', 'CSS', 'Material Ui'],
+        code: 'https://github.com/Kung-FuKenny/Khumla_congrats',
+        demo: 'https://congratulations-seven.vercel.app/',
+        image: five
+    },
+    {
+        id: 6,
+        projectName: 'Golden State Warriors Fan Art',
+        projectDesc: 'Animated wavy image of Stephen Curry',
+        tags: ['React', 'CSS', 'Material Ui', 'Three.js'],
+        code: 'https://github.com/Kung-FuKenny/Golden-State-Warriors',
+        demo: 'https://gs-warriors.vercel.app/',
+        image: six
+    },
     // {
     //     id: 7,
     //     projectName: 'ShotLeft',
